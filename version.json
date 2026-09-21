@@ -1,5 +1,5 @@
 {
-  "version": "2.28",
-  "url": "https://github.com/alzaubi/Haval-H6-Dargo/releases/download/v2.28/SmartSplit_H6-Dargo_v2.28_TEST.apk",
-  "notes": "Haval H6/Dargo test build: cluster panel routing, split-screen compatibility, mouse pad click/scroll bridge, H6/Dargo VIN reader, and dedicated normal-background server."
+  "version": "2.31",
+  "url": "https://github.com/alzaubi/Haval-H6-Dargo/releases/download/v2.31/SmartSplit_H6-Dargo_v2.31.apk",
+  "notes": "Haval H6/Dargo v2.31: 100 ms vehicle-data polling for responsive RPM and speed, direct RPM response, split-screen fixes, cluster mouse-pad click/scroll bridge, and single-line controls."
 }
