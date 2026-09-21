@@ -1,1 +1,5 @@
-
+{
+  "version": "2.28",
+  "url": "https://github.com/alzaubi/Haval-H6-Dargo/releases/download/v2.28/SmartSplit_H6-Dargo_v2.28_TEST.apk",
+  "notes": "Haval H6/Dargo test build: cluster panel routing, split-screen compatibility, mouse pad click/scroll bridge, H6/Dargo VIN reader, and dedicated normal-background server."
+}
