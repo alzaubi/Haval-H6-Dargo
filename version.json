@@ -1,5 +1,5 @@
 {
-  "version": "2.31",
-  "url": "https://github.com/alzaubi/Haval-H6-Dargo/releases/download/v2.31/SmartSplit_H6-Dargo_v2.31.apk",
-  "notes": "Haval H6/Dargo v2.31: 100 ms vehicle-data polling for responsive RPM and speed, direct RPM response, split-screen fixes, cluster mouse-pad click/scroll bridge, and single-line controls."
+  "version": "2.32",
+  "url": "https://github.com/alzaubi/Haval-H6-Dargo/releases/download/v2.32/SmartSplit_H6-Dargo_v2.32.apk",
+  "notes": "Haval H6/Dargo v2.32: continuous RPM movement using 55% interpolation, 100 ms GWM polling, and live gwm_adapter RPM priority to prevent delayed values from interrupting the needle."
 }
