@@ -1,5 +1,5 @@
 {
-  "version": "2.32",
-  "url": "https://github.com/alzaubi/Haval-H6-Dargo/releases/download/v2.32/SmartSplit_H6-Dargo_v2.32.apk",
-  "notes": "Haval H6/Dargo v2.32: continuous RPM movement using 55% interpolation, 100 ms GWM polling, and live gwm_adapter RPM priority to prevent delayed values from interrupting the needle."
+  "version": "2.33",
+  "url": "https://github.com/alzaubi/Haval-H6-Dargo/releases/download/v2.33/SmartSplit_H6-Dargo_v2.33.apk",
+  "notes": "Haval H6/Dargo v2.33: synchronized analog speed needles with the live digital speed, ignored steering-key repeats, and added a 600 ms theme-change guard to prevent overlapping gauge refreshes."
 }
