@@ -1,5 +1,5 @@
 {
   "version": "2.34",
   "url": "https://github.com/alzaubi/Haval-H6-Dargo/releases/download/v2.34/SmartSplit_H6-Dargo_v2.34.apk",
-  "notes": "Haval H6/Dargo v2.34: waits for late vehicle data and rebinds it after service recreation, automatically recovers an unexpectedly lost long-running cluster session, and calibrates the photographed analog speed needles to their printed scales."
+  "notes": "Haval H6/Dargo v2.34: adds six gauge themes from the original SmartSplit project (Mechanical Gears, Glass Cockpit, Blue Navigation, Off-Road Glass, Arrizo Original, and Off-Road Expedition), waits for late vehicle data and rebinds it after service recreation, automatically recovers an unexpectedly lost long-running cluster session, and calibrates the photographed analog speed needles to their printed scales."
 }
